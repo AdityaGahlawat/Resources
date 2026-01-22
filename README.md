@@ -1,8 +1,10 @@
-# Preprints
+# Publicly Hosted Material
+
+## Preprints
 
 Collection of preprints that I want to generate links to share
 
-## Example Usage 
+### Example Usage 
 
 If you want to generate a shareable link for `document.pdf`, then: 
 1. Upload `document.pdf` to branch `main`, and commit changes
